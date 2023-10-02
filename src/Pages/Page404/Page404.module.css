@@ -1,0 +1,22 @@
+.titulo2 {
+    padding-top: 2rem;
+}
+
+.textos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.texto_grande {
+    font-size: 300px;
+    color: var(--primary);
+    font-weight: bold;
+}
+
+.texto_blue {
+    font-size: 1.5rem;
+    color: var(--primary);
+    font-weight: bold;
+}
